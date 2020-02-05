@@ -1,0 +1,14 @@
+<map id="o2::quality_control::checker::CheckInterface" name="o2::quality_control::checker::CheckInterface">
+<area shape="rect" id="node2" href="$classo2_1_1quality__control_1_1test_1_1TestCheck.html" title="{o2::quality_control\l::test::TestCheck\n|+ mValidString\l|+ TestCheck()\l+ ~TestCheck()\l+ configure()\l+ check()\l+ beautify()\l+ getAcceptedType()\l}" alt="" coords="5,263,149,428"/>
+<area shape="rect" id="node3" href="$classo2_1_1quality__control__modules_1_1common_1_1MeanIsAbove.html" title="Check whether the mean of the plot is above a certain limit. " alt="" coords="173,263,397,428"/>
+<area shape="rect" id="node4" href="$classo2_1_1quality__control__modules_1_1common_1_1NonEmpty.html" title="Check whether a plot is empty or not. " alt="" coords="422,255,629,435"/>
+<area shape="rect" id="node5" href="$classo2_1_1quality__control__modules_1_1daq_1_1EverIncreasingGraph.html" title="Check whether a plot is empty or not. " alt="" coords="653,255,856,435"/>
+<area shape="rect" id="node6" href="$classo2_1_1quality__control__modules_1_1emcal_1_1DigitCheck.html" title="Check whether a plot is empty or not. " alt="" coords="880,255,1075,435"/>
+<area shape="rect" id="node7" href="$classo2_1_1quality__control__modules_1_1example_1_1FakeCheck.html" title="Check whether a plot is empty or not. " alt="" coords="1099,255,1309,435"/>
+<area shape="rect" id="node8" href="$classo2_1_1quality__control__modules_1_1mft_1_1BasicDigitQcCheck.html" title="Check whether a plot is empty or not. " alt="" coords="1334,248,1525,443"/>
+<area shape="rect" id="node9" href="$classo2_1_1quality__control__modules_1_1skeleton_1_1SkeletonCheck.html" title="Check whether a plot is empty or not. " alt="" coords="1549,248,1696,443"/>
+<area shape="rect" id="node10" href="$classo2_1_1quality__control__modules_1_1tof_1_1TOFCheckRawsMulti.html" title="Check whether a plot is empty or not. " alt="" coords="1721,248,1927,443"/>
+<area shape="rect" id="node11" href="$classo2_1_1quality__control__modules_1_1tof_1_1TOFCheckRawsTime.html" title="Check whether a plot is empty or not. " alt="" coords="1951,255,2187,435"/>
+<area shape="rect" id="node12" href="$classo2_1_1quality__control__modules_1_1tof_1_1TOFCheckRawsToT.html" title="Check whether a plot is empty or not. " alt="" coords="2211,248,2442,443"/>
+<area shape="rect" id="node13" href="$classTestCheck.html" title="{TestCheck\n|+ mCheck\l+ mBeautify\l|+ TestCheck()\l+ configure()\l+ check()\l+ beautify()\l+ getAcceptedType()\l}" alt="" coords="2467,270,2611,421"/>
+</map>

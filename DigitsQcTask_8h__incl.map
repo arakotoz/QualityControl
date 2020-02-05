@@ -1,0 +1,8 @@
+<map id="Modules/EMCAL/include/EMCAL/DigitsQcTask.h" name="Modules/EMCAL/include/EMCAL/DigitsQcTask.h">
+<area shape="rect" id="node2" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="103,95,303,121"/>
+<area shape="rect" id="node9" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="610,169,774,196"/>
+<area shape="rect" id="node10" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="798,169,1013,196"/>
+<area shape="rect" id="node11" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="805,244,1006,271"/>
+<area shape="rect" id="node15" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="619,244,781,271"/>
+<area shape="rect" id="node16" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="357,244,544,271"/>
+</map>

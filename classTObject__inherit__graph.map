@@ -1,0 +1,4 @@
+<map id="TObject" name="TObject">
+<area shape="rect" id="node2" href="$classo2_1_1quality__control_1_1core_1_1MonitorObject.html" title="This class keeps the metadata about one published object. " alt="" coords="5,131,151,545"/>
+<area shape="rect" id="node3" href="$classo2_1_1quality__control_1_1core_1_1QualityObject.html" title="{o2::quality_control\l::core::QualityObject\n||+ QualityObject()\l+ QualityObject()\l+ QualityObject()\l+ ~QualityObject()\l+ QualityObject()\l+ QualityObject()\l+ operator=()\l+ operator=()\l+ getName()\l+ GetName()\l+ updateQuality()\l+ getQuality()\l+ setInputs()\l+ getInputs()\l+ addMetadata()\l+ getMetadataMap()\l+ getPath()\l}" alt="" coords="175,175,317,501"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Modules/TOF/src/TOFTask.cxx" name="Modules/TOF/src/TOFTask.cxx">
+<area shape="rect" id="node8" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="555,80,753,107"/>
+<area shape="rect" id="node10" href="$TOFTask_8h.html" title="TOF/TOFTask.h" alt="" coords="784,80,903,107"/>
+<area shape="rect" id="node11" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="757,155,957,181"/>
+<area shape="rect" id="node18" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="1263,229,1427,256"/>
+<area shape="rect" id="node19" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="1451,229,1665,256"/>
+<area shape="rect" id="node20" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="1457,304,1659,331"/>
+<area shape="rect" id="node24" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="1272,304,1433,331"/>
+<area shape="rect" id="node25" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="1010,304,1197,331"/>
+</map>

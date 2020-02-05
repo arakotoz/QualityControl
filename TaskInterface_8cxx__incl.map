@@ -1,0 +1,9 @@
+<map id="Framework/src/TaskInterface.cxx" name="Framework/src/TaskInterface.cxx">
+<area shape="rect" id="node2" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="671,80,871,107"/>
+<area shape="rect" id="node17" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="968,80,1167,107"/>
+<area shape="rect" id="node9" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="476,155,640,181"/>
+<area shape="rect" id="node10" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="664,155,879,181"/>
+<area shape="rect" id="node11" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="199,229,400,256"/>
+<area shape="rect" id="node15" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="424,229,585,256"/>
+<area shape="rect" id="node16" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="661,229,847,256"/>
+</map>

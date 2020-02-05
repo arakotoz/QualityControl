@@ -1,0 +1,10 @@
+<map id="Modules/TPC/src/PID.cxx" name="Modules/TPC/src/PID.cxx">
+<area shape="rect" id="node6" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="806,80,1005,107"/>
+<area shape="rect" id="node8" href="$PID_8h.html" title="TPC/PID.h" alt="" coords="469,80,555,107"/>
+<area shape="rect" id="node10" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="467,155,667,181"/>
+<area shape="rect" id="node16" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="485,229,649,256"/>
+<area shape="rect" id="node17" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="673,229,887,256"/>
+<area shape="rect" id="node18" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="294,304,495,331"/>
+<area shape="rect" id="node22" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="519,304,681,331"/>
+<area shape="rect" id="node23" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="756,304,943,331"/>
+</map>
